@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myworld.iml" filepath="$PROJECT_DIR$/.idea/modules/myworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/myworld.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/myworld.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1121327217/myworld.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1121327217/myworld.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-777605080/myworld.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-777605080/myworld.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1099872883/myworld.react-native-pager-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1099872883/myworld.react-native-pager-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-592808716/myworld.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-592808716/myworld.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/697196177/myworld.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/697196177/myworld.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2013098007/myworld.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-2013098007/myworld.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-61237074/myworld.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-61237074/myworld.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
